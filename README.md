@@ -3,6 +3,7 @@
 My Pet Bird Project is part of a competition to write a program to predict if the pet bird is at home or not.
 
 The Bird Program
+
     Our pet bird lives on a tree (a hole)
     Our pet bird have the following characteristics (sleeps, plays, search for food/water, eats and some other activities
     which not sure what it is)
